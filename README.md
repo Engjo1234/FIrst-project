@@ -1,4 +1,4 @@
-# FIrst-project
+# First-project
 for React Native
 
 
